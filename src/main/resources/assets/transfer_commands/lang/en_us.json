@@ -1,0 +1,13 @@
+{
+  "commands.transfer.insert.success": "Successfully inserted %s %s",
+  "commands.transfer.insert.simulate.success": "Successfully simulated insertion of %s %s",
+
+  "commands.transfer.extract.success": "Successfully extracted %s %s",
+  "commands.transfer.extract.simulate.success": "Successfully simulated extraction of %s %s",
+
+  "commands.transfer.move.success": "Successfully moved %s %s",
+  "commands.transfer.move.simulate.success": "Successfully simulated move of %s %s",
+
+  "commands.transfer.fluid.invalid": "There is no feature with type \"%s\"",
+  "commands.transfer.invalid_storage": "Could not find a storage"
+}

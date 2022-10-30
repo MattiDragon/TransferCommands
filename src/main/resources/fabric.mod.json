@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "transfer_commands",
+  "version": "${version}",
+  "name": "TransferCommands",
+  "description": "Contains commands for testing and using the fabric transfer api.",
+  "authors": [
+    "MattiDragon"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/transfer_commands/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.github.mattidragon.transfertester.TransferTester"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.10",
+    "fabric": "*",
+    "minecraft": "1.19.2"
+  }
+}
